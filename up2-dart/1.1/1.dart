@@ -1,9 +1,7 @@
 import 'dart:math';
-import 'dart:io';
 
 void main() {
-// 1 задание
-  /*var random = new Random();
+  var random = new Random();
   List<int> num = [];
   const int d = 10;
   int min = 0;
@@ -20,14 +18,4 @@ void main() {
   }
   print(min);
   print(num);
-// 2 задание
-  
-
-  // 3 задание 
-
-
-  // 4 задание 
-  */
-
-  // 5  задание 
-  
+}
